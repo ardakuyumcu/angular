@@ -1,0 +1,9 @@
+{
+    "no": 2,
+    "name": "Ivysaur",
+    "type": "Grass",
+    "basePower": 50,
+    "ability": "Vitality Drain",
+    "captureRate": 14,
+    "imageUrl": "http://www.serebii.net/shuffle/pokemon/002.png"
+}

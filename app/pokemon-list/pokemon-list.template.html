@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      <p>
+        Search:
+        <input ng-model="$ctrl.query" />
+      </p>
+
+      <p>
+        Sort by:
+        <select ng-model="$ctrl.orderProp">
+          <option value="no">Pokedex Number</option>
+          <option value="name">Alphabetical</option>
+          <option value="basePower">Base Power</option>
+          <option value="type">Type</option>
+        </select>
+      </p>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="pokemon">
+        <li ng-repeat="pokemon in $ctrl.pokemon | filter:$ctrl.query | orderBy:$ctrl.orderProp"
+            class="thumbnail pokemon-list-item">
+          <a href="#!/pokemon/{{pokemon.id}}" class="thumb">
+            <img ng-src="{{pokemon.imageUrl}}" alt="{{pokemon.name}}" />
+          </a>
+          <a href="#!/pokemon/{{pokemon.name}}">{{pokemon.name}}</a>
+          <p>Attack Power: {{pokemon.basePower}}</p>
+          <p>{{pokemon.ability}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

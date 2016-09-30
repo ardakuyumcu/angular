@@ -1,0 +1,13 @@
+{
+  "name": "pokemon-shuffle-guide",
+  "description": "A Pokemon Shuffle guide for the web",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ardakuyumcu/angular",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "bootstrap": "3.3.x"
+  }
+}

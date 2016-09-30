@@ -1,0 +1,9 @@
+{
+    "no": 1,
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "basePower": 40,
+    "ability": "Power of 4",
+    "captureRate": 14,
+    "imageUrl": "http://www.serebii.net/shuffle/pokemon/001.png"
+}

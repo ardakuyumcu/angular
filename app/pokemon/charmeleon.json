@@ -1,0 +1,9 @@
+{
+    "no": 5,
+    "name": "Charmeleon",
+    "type": "Fire",
+    "basePower": 50,
+    "ability": "Burn",
+    "captureRate": 15,
+    "imageUrl": "http://www.serebii.net/shuffle/pokemon/005.png"
+}

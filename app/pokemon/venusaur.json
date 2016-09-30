@@ -1,0 +1,9 @@
+{
+    "no": 3,
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "basePower": 60,
+    "ability": "Vitality Drain",
+    "captureRate": 1,
+    "imageUrl": "http://www.serebii.net/shuffle/pokemon/003.png"
+}

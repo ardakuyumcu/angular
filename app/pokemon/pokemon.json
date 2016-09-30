@@ -1,0 +1,56 @@
+[
+    {
+        "no": 1,
+        "id": "bulbasaur",
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "basePower": 40,
+        "ability": "Power of 4",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/001.png"
+    },
+    {
+        "no": 2,
+        "id": "ivysaur",
+        "name": "Ivysaur",
+        "type": "Grass",
+        "basePower": 50,
+        "ability": "Vitality Drain",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/002.png"
+    },
+    {
+        "no": 3,
+        "id": "venusaur",
+        "name": "Venusaur",
+        "type": "Grass",
+        "basePower": 60,
+        "ability": "Vitality Drain",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/003.png"
+    },
+    {
+        "no": 4,
+        "id": "charmander",
+        "name": "Charmander",
+        "type": "Fire",
+        "basePower": 40,
+        "ability": "Power of 4",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/004.png"
+    },
+    {
+        "no": 5,
+        "id": "charmeleon",
+        "name": "Charmeleon",
+        "type": "Fire",
+        "basePower": 50,
+        "ability": "Burn",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/005.png"
+    },
+    {
+        "no": 6,
+        "id": "charizard",
+        "name": "Charizard",
+        "type": "Fire",
+        "basePower": 60,
+        "ability": "Burn",
+        "imageUrl": "http://www.serebii.net/shuffle/pokemon/006.png"
+    }
+]
